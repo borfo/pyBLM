@@ -1,12 +1,12 @@
 # pyBLM
 A python3 based implementation of MIDIbox BLM controller using Novation Launchpads.
 
-For use with Thorsten Klose's amazing MIDIbox platform - http://www.ucapps.de/
-MIDIbox SEQ V4 User Manual: http://www.ucapps.de/midibox_seq_manual.html
+For use with Thorsten Klose's amazing MIDIbox platform - http://www.ucapps.de/   
+MIDIbox SEQ V4 User Manual: http://www.ucapps.de/midibox_seq_manual.html   
 BLM info page: http://www.ucapps.de/midibox_seq_manual_blm.html
-BLM Protocol documentation: http://svnmios.midibox.org/filedetails.php?repname=svn.mios32&path=%2Ftrunk%2Fapps%2Fcontrollers%2Fblm_scalar%2FREADME.txt
-
-
+BLM Protocol documentation: http://svnmios.midibox.org/filedetails.php?repname=svn.mios32&path=%2Ftrunk%2Fapps%2Fcontrollers%2Fblm_scalar%2FREADME.txt   
+   
+   
 pyBLM allows you to use up to four novation launchpads as a BLM for the MIDIbox Seq V4.  In this respect, pyBLM basically does exactly what the Juce Scalar Emulation app do, but it leaves out all the extra features and GUI elements.  It currently works well with 4 launchpads (16x16 BLM).  It should more or less work with 2 (8x16 BLM), although I get an error on a callback that I haven't figured out yet.
 
 It doesn't seem to work with one launchpad yet - does the SEQ support a one launchpad 8x8 BLM?  If so, I may fix pyBLM to support that sometime, or if you want to do it, feel free.
