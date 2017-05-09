@@ -3,7 +3,7 @@ A python3 based implementation of MIDIbox BLM controller using Novation Launchpa
 
 For use with Thorsten Klose's amazing MIDIbox platform - http://www.ucapps.de/   
 MIDIbox SEQ V4 User Manual: http://www.ucapps.de/midibox_seq_manual.html   
-BLM info page: http://www.ucapps.de/midibox_seq_manual_blm.html
+BLM info page: http://www.ucapps.de/midibox_seq_manual_blm.html   
 BLM Protocol documentation: http://svnmios.midibox.org/filedetails.php?repname=svn.mios32&path=%2Ftrunk%2Fapps%2Fcontrollers%2Fblm_scalar%2FREADME.txt   
    
    
