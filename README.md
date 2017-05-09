@@ -1,5 +1,5 @@
 # pyBLM
-A python3 based implementation of MIDIbox BLM controller using Novation Launchpads.
+A headless python3 based implementation of TK's MIDIbox BLM controller using Novation Launchpads.
 
 For use with Thorsten Klose's amazing MIDIbox platform - http://www.ucapps.de/   
 MIDIbox SEQ V4 User Manual: http://www.ucapps.de/midibox_seq_manual.html   
